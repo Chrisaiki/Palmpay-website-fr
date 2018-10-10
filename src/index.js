@@ -15,6 +15,8 @@ import "./index.css";
 
 import messages_en from "./translations/en.json";
 import messages_es from "./translations/es.json";
+import messages_fr from "./translations/fr.json";
+
 
 const messages = {
     'en': messages_en,
