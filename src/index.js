@@ -20,10 +20,11 @@ import messages_fr from "./translations/fr.json";
 
 const messages = {
     'en': messages_en,
-    'es': messages_es
+    'es': messages_es,
+    'fr': messages_fr
 };
 
-const language = 'en';
+const language = 'fr';
 
 // Add IntlProvider to make the internationalization functions visible in all
 // our components.
